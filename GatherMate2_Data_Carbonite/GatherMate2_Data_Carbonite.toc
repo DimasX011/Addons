@@ -1,0 +1,16 @@
+## Interface: 70100
+## Notes: Wowhead Data dump for GatherMate2
+## Title: GatherMate2Data - Carbonite Edition
+## Author: Rythal (carb edition), kagaro, Xinhuan
+## X-Category: Map
+## Version: v30.1
+## LoadOnDemand: 1
+## X-Generated-Version: $Revision: 455 $
+## Dependencies: Carbonite
+
+MiningData.lua
+HerbalismData.lua
+GasData.lua
+FishData.lua
+TreasureData.lua
+ArchaeologyData.lua

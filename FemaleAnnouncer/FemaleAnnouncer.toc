@@ -1,0 +1,7 @@
+## Interface: 70200
+## Title: FemaleAnnouncer
+## Notes: Female Announcer for killing blows in battleground and arenas
+## Author: Slushe
+## Version: 1.0.18
+
+FemaleAnnouncer.lua

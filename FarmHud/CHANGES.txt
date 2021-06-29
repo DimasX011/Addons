@@ -1,0 +1,12 @@
+tag b71dcc6eacbb6822e59b2e489a86fbe06d72c8e2 7.2-release2
+Author:	Hizuro <hizuro@gmx.net>
+Date:	Wed Apr 5 14:26:32 2017 +0200
+
+Tagging as 7.2-release2
+
+commit a6740aee112a08cec71fa9e337b9592af72bf82d
+Author: Hizuro <hizuro@gmx.net>
+Date:   Wed Apr 5 14:26:08 2017 +0200
+
+    fix problem with tracking options
+

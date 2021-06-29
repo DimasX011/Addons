@@ -1,0 +1,7 @@
+changeset:   122:f1da233629be
+tag:         v57
+user:        yellowfive
+date:        Mon Feb 12 19:33:34 2018 -0800
+summary:     Added portuguese translation. Turned off team optimizer for now.
+
+
