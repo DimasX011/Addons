@@ -1,0 +1,21 @@
+lightweight tag 8e0e0c9f87d9eb0fc0213227acebfffb9553999e 2.2.02
+Author:	Phrike <phriked@gmail.com>
+Date:	Wed Jul 18 22:08:38 2018 -0700
+
+commit 8e0e0c9f87d9eb0fc0213227acebfffb9553999e
+Author: Phrike <phriked@gmail.com>
+Date:   Wed Jul 18 22:08:38 2018 -0700
+
+    Updated version
+
+commit 915baf98ef6cb2f4ab0b60ecf4ba8b970621fa7b
+Author: Phrike <phriked@gmail.com>
+Date:   Wed Jul 18 22:01:37 2018 -0700
+
+    Bug fixes
+    
+    -Fixed bug where syncing was not happening if there werer too few keys to send
+    -Fixed issue of character key information being cut off
+    -Fixed issue of not acquiring character's best weekly Mythic Plus
+    -A bunch of things I don't remember.
+

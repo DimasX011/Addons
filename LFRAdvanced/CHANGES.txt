@@ -1,0 +1,618 @@
+commit 9b035e0608919c2fe50de6e325ce6fc3c13b5ff4
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Jun 16 00:10:48 2018 +0300
+
+    toc bump
+    spam filter now checks group name in addition to description
+
+commit badbf3387d46f3245f00ec93c44781f51d4f73fc
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Mon Mar 26 07:48:22 2018 +0300
+
+    Fix
+
+commit 7c1b617cb230cf685fb98716bfed57e0d181d3c6
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sun Mar 25 05:31:30 2018 +0300
+
+    Fix
+
+commit 7668e9f656c6a19f674b810ae09734ccd63d9dd2
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Mar 20 08:52:55 2018 +0300
+
+    toc
+
+commit 88d31ece071c4667efb59e17195a5c5109ca0711
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Mar 20 08:42:23 2018 +0300
+
+    Add option for fast linking Antorus "Curve" to group leader
+
+commit 28a83855a1e2cbfb667d3683391f733ed606e9b1
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Jan 6 23:49:51 2018 +0300
+
+    Improved spam filter
+
+commit 7066b5855fad0b839c0cc278e68090473170c052
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Thu Jan 4 10:18:14 2018 +0300
+
+    Fix
+
+commit 1e9c1d93926de3fbc000c307f5df4f664352115a
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Wed Jan 3 19:38:27 2018 +0300
+
+    Fix dropdown items
+
+commit c806e138d2a10e0f32197850b2587f061e9e2909
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Thu Oct 26 17:22:22 2017 +0300
+
+    toc bump
+
+commit 974cae9b86b79ed54ab35ca144785a2aff88e3bc
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Wed Aug 30 13:17:51 2017 +0300
+
+    7.3 fix
+
+commit ba3f505d27514bdb08fbf3753319d433269b7b49
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Wed Aug 23 16:56:44 2017 +0300
+
+    Fix issues
+
+commit e7565c8aa640137260430536344a839307e09c63
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Aug 8 01:27:57 2017 +0300
+
+    Fix
+
+commit e77672c92c6668585f65cd9184c3d94646872a72
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Jun 20 14:52:31 2017 +0300
+
+    Fix
+
+commit 571fc18a600e4177be92b63c84ac1507431cd02c
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Wed Jun 14 17:02:34 2017 +0300
+
+    Fix
+
+commit 802d4bccfd4769a1bddfc3361df98c23898161ec
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Wed Jun 14 16:56:51 2017 +0300
+
+    Fix
+
+commit 8d7e48f50cdfa31c259bb8a04a381b60d7189e69
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Wed Jun 14 16:41:30 2017 +0300
+
+    Add some 7.2.5 changes
+
+commit 78b8addee766a74c1b420e0e2cf6d2ffcb234e14
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Thu May 11 02:31:15 2017 +0300
+
+    Fix
+
+commit ff98dd21cb36f0e5f60ebe8a8bc2a11277ae012b
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Mon May 1 03:59:56 2017 +0300
+
+    Fix
+
+commit f508dd64a0dbe5ed568ccacfbe9181b9fe4d2385
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Fri Mar 31 13:46:34 2017 +0300
+
+    toc bump
+
+commit 060a1b198ffa155c30dd08bd19692fbd53a0b557
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Thu Mar 2 09:07:59 2017 +0300
+
+    Update
+
+commit 520a2383aef2a88533e55ed9ac01489f4a29778b
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Thu Jan 19 02:42:12 2017 +0300
+
+    toc fix and add EN(M) to dropdown
+
+commit feaac829a40c71eb3ac691de6d6c7156ccfea262
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Thu Dec 8 19:16:40 2016 +0300
+
+    Fix
+
+commit ca23b91a1bf5f8ae1e2d116ac556f99b3601e122
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Oct 29 15:37:33 2016 +0300
+
+    Add options to hide legion normal and heroic dungeons from dropdown menu
+
+commit 64179d1d8dcb0f27bf32838208150ae7fe2025ba
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Thu Oct 27 19:42:06 2016 +0300
+
+    7.1 update
+
+commit 0a48a162cdd3fb89969655bf19d5366516382591
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Fri Oct 14 04:56:30 2016 +0300
+
+    Dropdown fix
+
+commit beab7d1236cdda361c6cc6c20816a9ba1b815052
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Jul 23 11:33:59 2016 +0300
+
+    Fix lua error due to missing honorLevel return arg
+    Let use ilvl filter with other filters
+
+commit c7ae264ecdce5977e551d559444d88c2ef96411e
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Wed Jul 20 19:48:24 2016 +0300
+
+    Hopefully it works
+
+commit 43b39952ccdb784d949d771daee17b655ec54d46
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Jul 9 18:25:22 2016 +0300
+
+    Fix
+
+commit 4a4ddbbae01b4a99af595dc8cda7af2d77e06e97
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sun May 29 22:17:15 2016 +0300
+
+    Stop auto refresh when joining group
+
+commit 3960b725a31563ab2494fdb016afe535d7e9bc02
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sun May 29 21:13:48 2016 +0300
+
+    Call proper OnEnter function
+
+commit 329724f050de7b48ed248b5f8f8bf3eab59137de
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Thu Apr 28 02:57:04 2016 +0300
+
+    Fix dropdown
+
+commit e8c712674ec516281be8185b0e72d5f331621bac
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Wed Mar 23 05:19:40 2016 +0300
+
+    toc bump
+
+commit 472541aa4113d53693e3f2b0db6222533503dcb1
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sun Feb 21 03:43:55 2016 +0300
+
+    Double that value
+
+commit 2156b38cd10b64b8ed75ec4255fa1300fbf6c194
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Dec 29 20:14:23 2015 +0300
+
+    Fix
+
+commit 33083d8d34204bc75342cc741ab8f498b04aad5a
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Dec 29 20:12:20 2015 +0300
+
+    Fix
+
+commit 5795a457c7800edcc06901c2741fdc380128371e
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Dec 29 19:54:42 2015 +0300
+
+    Fix
+
+commit c87403f995f6bd0c58a7b816b5603db9bdae1613
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Dec 29 19:49:21 2015 +0300
+
+    typo
+
+commit 4cc75becd12443688a5e77f1a16843154d4b3a6d
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Dec 29 19:47:19 2015 +0300
+
+    Add copy leader/applicant name options to context menu
+
+commit a2755b58fef072983137bd24cdc7fda4e543e579
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Mon Nov 30 18:45:30 2015 +0300
+
+    Hide outdated option
+
+commit 93ea7248b86fc1a3d9c52a1abd0a1d0daf1b7d6b
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Mon Nov 30 18:37:39 2015 +0300
+
+    Added option to change auto refresh interval
+
+commit 7987ea9965939dfd9088bb21d16dcfdf6a95a2fa
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Oct 27 00:27:22 2015 +0300
+
+    Changed how auto refresh is working
+    * It's now activated/deactivated by right clicking refresh button
+    * Sound/taskbar flash notification added when you find a group while auto refresh is on
+
+commit 6d11071a21efa35bd7743df4679cb77bb2a40955
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Wed Sep 2 07:54:04 2015 +0300
+
+    Updated for 6.2.2
+
+commit 8356112a711a8323bc66e84841311de4abddea17
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Wed Aug 5 12:03:29 2015 +0300
+
+    Hide this checkbox (no longer used)
+
+commit e14f81d480b507c64a66e4cede1e71106d39f73f
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Wed Aug 5 11:56:03 2015 +0300
+
+    May be this will fix this weird lua error I never had
+
+commit 81068d557f8a0ac9c0bb6e819c9d0dc023cb3b78
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Wed Aug 5 02:20:30 2015 +0300
+
+    Fix
+
+commit db201649bdcf11322e1ac36e794b39808b2d383e
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Wed Aug 5 01:51:28 2015 +0300
+
+    Let whisper to leader when not signed up
+
+commit 20c610f4415e48f5970500759bd86f568945d5cc
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Aug 4 22:14:53 2015 +0300
+
+    Add second search box under blizzard's one for local search results filtering
+
+commit d9550e06dc9b6b86af694dbc67500099b0f79059
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Wed Jul 22 03:07:21 2015 +0300
+
+    Add new 6.2 activities to dropdown
+    Save last filter text
+
+commit 7649d2f86f10f65215a8edcac0d597e55d5c3025
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Wed Jun 24 12:24:45 2015 +0300
+
+    Fix broken language filter
+
+commit 0eba2ff1fc6e664630d8a061ea44e1d22e4eccad
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Jun 23 13:03:23 2015 +0300
+
+    toc bump
+
+commit 91c562c37cfe43e87b204b1fc7b58a646ca681c2
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Jun 6 12:38:31 2015 +0300
+
+    Fix
+
+commit 97898711263c27efd6cbf3eb5de60f20df4c9b54
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Jun 6 11:54:36 2015 +0300
+
+    Fix category selection after selection subcategory
+
+commit f0236507179fc019eb19813cc1dfbe03061b9f27
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Wed Feb 25 01:18:08 2015 +0300
+
+    toc bump
+
+commit 1cf057d3128a464cfc5029a414e7ffa8e59bd58e
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sun Feb 22 16:19:38 2015 +0300
+
+    Auto refresh search option
+
+commit 5dcd1073ba59a7d345592b28965a5f24906532b1
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sun Jan 11 16:04:37 2015 +0300
+
+    Fix
+
+commit 2a58821320b20b5c99ab15f36f5b9fb31c09e8d3
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sun Jan 11 03:59:56 2015 +0300
+
+    New filtering operators added:
+    +word - include word in search
+    -word - exclude word in search
+    ?word - any word in search
+    +/-/? operators can be combined
+    iNUMBER - greater than NUMBER item level filter (+/-/? operators ignored when this filter is used)
+
+commit bb659950bf31b585879390215b85230efa020a5b
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Jan 10 20:11:10 2015 +0300
+
+    Also filter by leader name
+    Sorting now done by group age instead of meaningless groupid.
+
+commit 4b3c2667007126d69ed2c55a626cb591429cf20c
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Dec 23 23:13:55 2014 +0300
+
+    Add an option for previous commit (default off for old users and on for new users)
+
+commit 5019d513beb9bf709bde774b65714793ee729eee
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Mon Dec 22 16:19:17 2014 +0300
+
+    Member's class and role now displayed in group's tooltips
+
+commit ff14ebd22ea9e02504514b6ff841d4ee2b7926e6
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Nov 18 22:18:43 2014 +0300
+
+    Add WoD category to dropdown menu
+
+commit 19f4baa5647b837a6902caeae5d3f0ca7aab0b8b
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Nov 8 02:23:16 2014 +0300
+
+    Fix
+
+commit 5803b9757a9029083d7e31b8c3bf5ed7e954feca
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Nov 8 01:42:54 2014 +0300
+
+    Fix
+
+commit 3f24cb1f218fe7fc657f0f34ed4d43c3859d78e9
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Nov 8 01:17:11 2014 +0300
+
+    Drop deprecated code
+
+commit 39bdec30df30b1a14e346acc7b16ebf9a15d3f1b
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Thu Nov 6 19:51:24 2014 +0300
+
+    Hide deprecated controls
+
+commit a7335d33fd4f8a3770323a5536b7a53322ba7c3e
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Mon Nov 3 15:50:34 2014 +0300
+
+    Bump version
+
+commit 8bab571e2fe0cc3beeed50342633c5394650fbcd
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Fri Oct 31 15:41:13 2014 +0300
+
+    Also fix dropdown text
+
+commit 763d5a102c7ce2474640667ac9402311eb5efa94
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Fri Oct 31 15:05:43 2014 +0300
+
+    Fix dropdown menu checked states
+
+commit e1fc5fb4993c11b18fa242eca29a37284e666eb0
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Fri Oct 31 02:17:14 2014 +0300
+
+    Fix
+
+commit 7fd9c161881bf5429693ad18a4ecdc3f7a86600f
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Fri Oct 31 01:50:32 2014 +0300
+
+    Changed the way group finder search box works
+
+commit 3a19c82b358b421f81bcca0061370f9f919a77a7
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Thu Oct 30 22:45:20 2014 +0300
+
+    Filter dropdown for group finder
+
+commit 56156ac4d8fd35ebe82e310b3a8c2a3e4f92d988
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Oct 14 19:54:33 2014 +0400
+
+    TOC update, but this is pretty much useless.
+
+commit 0ebaa2166f40fe21dff346e7981f9b6707285463
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Fri Oct 10 03:45:36 2014 +0400
+
+    Remove duplicate code
+
+commit 136d8130f4ccaf6da5e9cca9f7c4f0c53ad0d5a1
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Sep 27 21:34:12 2014 +0400
+
+    Added option to Enable/Disable "Create Raid" button (off by default!)
+
+commit cef9a22f945dbdaec81adbf8de014072123f6046
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Thu Sep 25 16:14:22 2014 +0400
+
+    Hide this for now
+
+commit 72a144b7c5900446ffa00f8cbcd4d9d499451189
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Sep 6 18:56:38 2014 +0400
+
+    Drop that variable
+
+commit 8d1105e1bc869d9c8c4e38ecb5da4d5451f74146
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Fri Aug 22 14:44:08 2014 +0400
+
+    Remove unused line
+
+commit 4adf0af92cd48f05dc098ab27c1ec896b72b35b8
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sun Aug 10 13:48:04 2014 +0400
+
+    Use select()
+
+commit a1906e11ed0ad6fbbf75fd115a8e20ef79507476
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Aug 2 03:25:31 2014 +0400
+
+    Fix args
+
+commit 7a3a68adc85b7ced9509a3dbafce1a270cdb2d6e
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Jul 22 20:31:51 2014 +0400
+
+    Tooltip fix
+
+commit e3f3db5aa62ad96551ceffa5fd494036bcccc622
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Mon Jun 23 14:08:54 2014 +0400
+
+    Fix
+
+commit 601a86c004c74a1c3d384ed3e970cbcff59815b8
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Jun 7 10:00:23 2014 +0400
+
+    Fixed class filter dropdown not working properly while list sorted by ilvl
+
+commit 31c003599b9174dcb036c32984fd5eef8483553e
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Fri May 30 18:07:49 2014 +0400
+
+    Fix
+
+commit ff509ff8fbc02d4e75d7d098cf8863f0adfe31dc
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sun Apr 20 02:45:13 2014 +0400
+
+    Tooltip improvements
+
+commit 23b95ed9165330ce53590e9dec70d5191ab4df74
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Feb 25 05:45:17 2014 +0400
+
+    Ignore min level req for listing option (gui), flex raids also have item level requirement that can't be ignored (enforced server side)
+
+commit 62aa5edeedcde68f3e7ef9248eeda02d0e51ecdf
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Feb 4 16:19:18 2014 +0400
+
+    Ignore min level req for listing option (allows to list with low level toons in raid browser), no gui yet
+
+commit 1de672c219e447292e67f719e1578b494c5387e3
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Jan 25 22:44:41 2014 +0400
+
+    Added class filter dropdown
+
+commit e779d98fc53494e96a62b019e22977e558d7767f
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sun Jan 19 23:52:35 2014 +0400
+
+    Added "Show party info" option (default on for new users and off for existing users)
+
+commit ba9ac2bb044b6ec0c49e33d9c2eee56a498dd47c
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Jan 14 03:02:49 2014 +0400
+
+    Removed stuff that won't ever be used
+
+commit e9ce46128b246ec04a289d9dfa7bb156cd65c681
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Fri Jan 10 05:09:35 2014 +0400
+
+    Added "Show old raids" option (default on for new users and off for existing users)
+
+commit 3b13f9afe51414327d464fa7f72fe23311c5745f
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Dec 31 05:50:00 2013 +0400
+
+    Fixed bug where Create raid button stays disabled in some cases
+    Added one more option
+
+commit f76ed34e661e12c4e4b0b5a003482ba2f198e286
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Dec 21 21:31:14 2013 +0400
+
+    Removed warning, since no one reported any bugs with "Create Raid" button
+
+commit ade00a068970cfcd0f1ddf67595b3f5250b2ac7f
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Dec 17 19:34:54 2013 +0400
+
+    Tweaks
+
+commit ac18ec0d566287699ea31f4054284c0092e9a445
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Tue Dec 17 17:52:39 2013 +0400
+
+    Print error message when player tries to list for incompatible raids groups at same time (blame blizzard!)
+
+commit f9732a6deb9fb4bf0282c09d9d0e7c675c1267eb
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Dec 14 22:05:26 2013 +0400
+
+    More tweaks
+
+commit fe1e3fabbb900df537b6b8a859426f4fb71d5d20
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Dec 14 20:32:46 2013 +0400
+
+    Fix typo
+
+commit fa6f2d8312cbfbdb4ef7ebde35551f5147dcf7fb
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Dec 14 18:19:39 2013 +0400
+
+    More tweaks
+
+commit 2da87041802e94927f96f6c367be6c1a86e2d6a0
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Dec 14 18:05:35 2013 +0400
+
+    Tweaks
+
+commit fe1641a36302def9d3f8bdc20e25313a4f0f8af7
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Dec 14 16:21:03 2013 +0400
+
+    Fix
+
+commit d822e30ace4d60247367d1ae1130afc2cc412803
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Dec 14 05:36:05 2013 +0400
+
+    Hopefully this works
+
+commit 24419e5d4a01ab7488b439b02a54012fec1128cb
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Dec 14 04:06:49 2013 +0400
+
+    Added some basic logic to "Create raid" feature
+
+commit 24629ec9defab1def894b921bfe30436062d3d6d
+Author: TOM_RUS <tom_rus@github.com>
+Date:   Sat Dec 14 03:10:33 2013 +0400
+
+    Added popup request when clicking "Create raid" button
+

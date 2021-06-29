@@ -1,0 +1,12 @@
+﻿## Interface: 60000
+## X-Min-Interface: 60000
+## Title:|cffffe00a<|r|cffff7d0aDBM|r|cffffe00a>|r |cff69ccf0Voicepack Alyona|r
+## DefaultState: enabled
+## RequiredDeps: DBM-Core
+## Author: Isegar
+## Version: 1.3 release
+## X-DBM-Voice: 1
+## X-DBM-Voice-Name: Alyona Russian Female
+## X-DBM-Voice-ShortName: Alyona
+## X-DBM-Voice-Version: 7
+## X-DBM-Voice-HasCount: 1

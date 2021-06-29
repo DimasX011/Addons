@@ -1,0 +1,24 @@
+tag d76a4ac4c903650fbef76014fc0485bc949fc31d 7.3.0.1
+Author:	Ressy <resa1983@hotmail.com>
+Date:	Tue Aug 29 19:39:48 2017 -0400
+
+7.3.0 release
+
+commit e062c22807cdc0ea8ab367d74537384aaee9cb59
+Author: Ressy <resa1983@hotmail.com>
+Date:   Tue Aug 29 19:31:18 2017 -0400
+
+    Add Locations, Reputations, Boss Encounters, various vendors
+
+commit 821f857ee967730fc0c90c16e827ab0668912251
+Author: Ressy <resa1983@hotmail.com>
+Date:   Tue Aug 29 19:28:58 2017 -0400
+
+    Bump ToC
+
+commit a1b4ab915b8e9bd7014b78805725880a5dd6efba
+Author: Ressy <resa1983@hotmail.com>
+Date:   Tue Jul 4 20:01:31 2017 -0400
+
+    Ripping out sound code, bugged in 7.3. ARL doesn't need sound effects.
+
